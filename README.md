@@ -1,6 +1,6 @@
 # SDaaS
 
-Have you ever wanted a simple REST API that enabled you to detect the subject of your images?
+Have you ever wanted a simple REST API that enabled you to detect the subject of your photographs?
 
 Look no further.
 
